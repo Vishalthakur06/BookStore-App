@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"./card.avif"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"./card.avif"        
+  },
+    {
+        "id":3,
+        "name":"Science Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":100,
+        "category":"Science",
+        "image":"./card.avif"        
+    },
+    {
+        "id":4,
+        "name":"History Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"History",
+        "image":"./card.avif"       
+    },
+    {
+        "id":5,
+        "name":"Math Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"./card.avif"        
+    },
+    {
+        "id":6,
+        "name":"English Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"./card.avif"        
+    },
+    {
+        "id":7,
+        "name":"Hindi Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":10,
+        "category":"Hindi",
+        "image":"./card.avif"
+   },
+    {
+        "id":8,
+        "name":"Sanskrit Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":20,
+        "category":"Sanskrit",
+        "image":"./card.avif"        
+    },
+    {
+        "id":9,
+        "name":"chemisty Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":60,
+        "category":"Chemistry",
+        "image":"./card.avif"        
+    },
+    {
+        "id":10,
+        "name":"Node js Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":60,
+        "category":"Node",
+        "image":"./card.avif"
+    },
+    {
+        "id":11,
+        "name":"React js Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"./card.avif"        
+    },
+    {
+        "id":12,
+        "name":"Javascript Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":70,
+        "category":"Javascript",
+        "image":"./card.avif"
+   },
+    {
+        "id":13,
+        "name":"Java Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"./card.avif"        
+    },
+    {
+        "id":14,
+        "name":"c++ Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"c++",
+        "image":"./card.avif"       
+    }
+]
